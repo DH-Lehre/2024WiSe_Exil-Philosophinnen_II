@@ -62,3 +62,19 @@ Mögliche Referatsthemen:
 
 ## Sitzung am 22.10.
 
+
+
+## Sitzung am 29.10.
+
+### Politische und philosophische Situation
+
+> Welche politisch und philosophisch relevanten **Daten** und **Orte** (bspw. Wirkungsorte von Schulen oder Philosoph:innen) fallen Euch für den Zeitraum zwischen 1920 und 1950 ein?
+
+### Lektüre für die nächste Woche
+
+Bitte bereitet vor: 
+
+* Hannah Arendt: Elemente und Ursprünge totaler Herrschaft, Vorwort und Kap. 9 (im OLAT)
+
+
+## Sitzung am 05.11.
