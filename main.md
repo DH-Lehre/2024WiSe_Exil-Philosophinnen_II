@@ -142,3 +142,27 @@ Um zu beantworten, ob etwas eine digitale Edition ist, können entsprechend die 
 ---
 
 Sahle, P. 2016. 2. What is a Scholarly Digital Edition? In: Driscoll, M. J., & Pierazzo, E. (Eds.), Digital Scholarly Editing: Theories and Practices. Open Book Publishers. aus dem Werk: http://books.openedition.org/obp/3397
+
+## 19.12. 
+
+Erste Sitzung zu Judith Shklar und Diskussion ihres Aufsatzes "Liberalismus der Furcht".
+
+### Story Map(s) "Arendt und Shklar"
+
+(Von Elaine Ringeloth und Fleming Jensen)
+
+Story Map Hannah Arendt: https://arcg.is/9KOLj0
+
+Story Map Judith Shklar: https://arcg.is/155aq51
+
+## 26.12.
+
+Zweite Sitzung zu Judith Shklar und Diskussion ihres Aufsatzes "Verpflichtung, Loyalität, Exil".
+
+## 03.12.
+
+*krankheitsbedingter Ausfall des Seminars* 
+
+## 10.12. 
+
+Referate zu Simon Weil und Isa Gruner, s. Handouts im OLAT-Ordner. 
