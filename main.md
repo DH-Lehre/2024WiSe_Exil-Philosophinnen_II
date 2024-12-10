@@ -165,4 +165,4 @@ Zweite Sitzung zu Judith Shklar und Diskussion ihres Aufsatzes "Verpflichtung, L
 
 ## 10.12. 
 
-Referate zu Simon Weil und Isa Gruner, s. Handouts im OLAT-Ordner. 
+Referate zu Simone Weil und Isa Gruner, s. Handouts im OLAT-Ordner. 
