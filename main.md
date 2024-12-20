@@ -60,6 +60,11 @@ Mögliche Referatsthemen:
 
 * 
 
+### Leitfaden für die Erstellung von Podcasts
+
+Der Podcastleitfaden findet sich hier: [https://liascript.github.io/course/?https://raw.githubusercontent.com/mauriemann/Podcast/refs/heads/main/Podcast_main.md#1](Podcastleitfaden)
+
+
 ## Sitzung am 22.10.
 
 
@@ -166,3 +171,7 @@ Zweite Sitzung zu Judith Shklar und Diskussion ihres Aufsatzes "Verpflichtung, L
 ## 10.12. 
 
 Referate zu Simone Weil und Isa Gruner, s. Handouts im OLAT-Ordner. 
+
+## 17.12.
+
+Besprechung der Texte zu Margarete Susman.
